@@ -9,6 +9,4 @@ I can also work with most web app technologies, such as jQuery, PHP, Django, Boo
 I'm in between jobs at the moment, so I'm working on polishing my resume, and cleaning up years worth of projects to add to my Github.
 
 Feel free to reach out to say hello!
-Clyffe/Clyffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
