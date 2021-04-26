@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Clyffe
-- 👀 I’m interested in Mobile Development, Full Stack Development!
-- 🌱 I’m currently learning Android Studio!
-- 📫 How to reach me: JacobJumper@gmail.com
+**Hey there, I'm Jacob!**
 
-<!---
+I'm a front end developer from Houston, Texas. I focus heavily on Documentation Driven Development.
+
+I mainly work with Python, Native Android with Java, and Native iOS with Swift. 
+
+I can also work with most web app technologies, such as jQuery, PHP, Django, Bootstrap, and Sass.
+
+I'm in between jobs at the moment, so I'm working on polishing my resume, and cleaning up years worth of projects to add to my Github.
+
+Feel free to reach out to say hello!
 Clyffe/Clyffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
