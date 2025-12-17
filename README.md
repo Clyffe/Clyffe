@@ -1,7 +1,7 @@
 
 **Hey there, I'm Jacob!**
 
-I'm a front end developer from Houston, Texas. I mainly work with mobile technologies, such as React Native, as well as with Python. My goals are to learn as much as I can about the things I enjoy working on, and make as many cool things with that knowledge as I can. 
+I'm a full stack engineer from Houston, Texas. I mainly work with webdev technologies, such as dotnet and Angular as well as with Python. My goals are to learn as much as I can about the things I enjoy working on, and make as many cool things with that knowledge as I can. 
 
 Feel free to reach out to say hello!
 <!-- Actual text -->
